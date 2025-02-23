@@ -7,8 +7,8 @@
 
 
 ## Cybersecurity Research Group (CRG)
-## Department of Computing and Data Science, York St John, University
 
+## School Of Science Technology and Health 
 
 ## Overview of the session 
 
