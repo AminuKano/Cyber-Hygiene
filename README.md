@@ -37,7 +37,7 @@
 *	Scanning a Keylogger Output File
 
 
-## [Activity 3 - Packet Sniffing  20 minutes](https://github.com/CS-Outreach-Session/Network-Security-/tree/main/Packet%20Sniffing)
+## [Activity 3 - Packet Sniffing  45 minutes](https://github.com/CS-Outreach-Session/Network-Security-/tree/main/Packet%20Sniffing)
 * Packet sniffing
 * Running Wireshark
 * HTTP Authentication
